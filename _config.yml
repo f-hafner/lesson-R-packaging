@@ -17,6 +17,15 @@ title: "R Packaging"
 # Possible values: "pre-alpha", "alpha", "beta", "stable"
 life_cycle: "pre-alpha"
 
+# Chapters order
+episode_order:
+    - 01-introduction
+    - 02-accessing
+    - 02-getting_started
+    - 033-functions
+    - 034-testing
+    - 035-documentation
+
 #------------------------------------------------------------
 # Generic settings (should not need to change).
 #------------------------------------------------------------
